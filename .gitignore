@@ -1,0 +1,26 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env
+
+# OCR outputs
+Output Files/
+ocr_debug/
+
+# Excel files
+*.xlsx
+
+# Images
+*.png
+*.jpg
+*.jpeg
+
+# PDFs
+*.pdf
+
+# Windows
+Thumbs.db
+desktop.ini
